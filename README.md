@@ -1,6 +1,6 @@
 ---
 
-```md
+```
 # ⚙️ Vite + React + TypeScript — Pro Error Handling Boilerplate
 
 This is a **production-ready frontend boilerplate** built with **Vite**, **React 18**, and **TypeScript**, designed to demonstrate **enterprise-level error handling patterns** under the concept of _“Pro Patterns Master Devs Should Know.”_
